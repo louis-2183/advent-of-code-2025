@@ -12,7 +12,6 @@ static int safe_check(string grid, int idx, int min, int max) {
             return 1;
         }
     }
-
     return 0;
 }
 
